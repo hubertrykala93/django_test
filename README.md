@@ -3,3 +3,5 @@
 Git test.
 
 Zmiana na branch'u develop.
+
+and third branch
